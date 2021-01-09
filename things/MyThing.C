@@ -5,7 +5,6 @@
 //  PbaThing for a collection of particles
 //  each doing a random walk.
 //
-//  Copyright (c) 2017 Jerry Tessendorf
 //
 //
 //--------------------------------------------------------
